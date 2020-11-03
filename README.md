@@ -1,5 +1,9 @@
 # Cloud-Security-Purple-Teaming
 
+## Introduction
+
+In this paper, we will go over many different aspects to red teaming and blue teaming in regards to cloud security, mainly Microsoft Azure. We will tackle the stages of an attack lifecycle that a hacker would use to attack Microsoft Azure as well as the ways to detect and prevent these attacks. We will also go over how to set up logging and auditing so that detection is possible and much easier to accomplish in Microsoft Azure. 
+
 # Azure Hacking
 
 ## Iniitial Access
